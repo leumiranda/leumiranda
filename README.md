@@ -1,7 +1,7 @@
-<h3 align="center"> Hi there 👋</h3>
+<h3 align="center"> Fala galera! 👋</h3>
 
 <p align="center">
-Olá! eu sou Leu Miranda, um entusiasta da tecnologia, auto-motivado e desenvolvedor back-end..
+Me chamo Leandro Miranda, um entusiasta da tecnologia, amo jogar mmo, sou auto-motivado e desenvolvedor back-end..
 </p>
 
 <h4 align="center">
