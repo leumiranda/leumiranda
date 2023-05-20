@@ -1,16 +1,21 @@
-### Hi there 👋
+<h3 align="center"> Hi there 👋</h3>
 
-<!--
-**leumiranda/leumiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Olá! eu sou Leu Miranda, um entusiasta da tecnologia, auto-motivado e desenvolvedor back-end..
+</p>
 
-Here are some ideas to get you started:
+<h4 align="center">
+💻 Estudo Engenharia de software na <a href="https://www.ampli.com.br/">@Ampli</a> | 🌱 Sempre em aprendizado | 💬 Conexão <a href="https://twitter.com/Mutnejax">@Mutnejax</a>
+</h4>
+<p  align="center">
+<a href="https://www.linkedin.com/in/leandro-miranda-16009a206/">https://linkedin.com/leumiranda</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<h3 align="center">
+Minha experiência / O que estou aprendendo:
+</h3>
+
+<h3 align="center">
+<img src="" alt="stacks"/>
+</h3>
