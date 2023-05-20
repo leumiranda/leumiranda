@@ -17,5 +17,5 @@ Minha experiência / O que estou aprendendo:
 </h3>
 
 <h3 align="center">
-<img src="" alt="stacks"/>
+<img src="Js.jpg" alt="stacks"/>
 </h3>
