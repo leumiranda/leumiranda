@@ -11,11 +11,6 @@ Me chamo Leandro Miranda, um entusiasta da tecnologia, amo jogar mmo, sou auto-m
 <a href="https://www.linkedin.com/in/leandro-miranda-16009a206/">https://linkedin.com/leumiranda</a>
 </p>
 
-<br/>
-<h3 align="center">
-Minha experiência / O que estou aprendendo:
-</h3>
-
 <h3 align="center">
 <img src="Js.jpg" alt="stacks"/>
 </h3>
