@@ -12,5 +12,5 @@ Me chamo Leandro Miranda, um entusiasta da tecnologia, amo jogar mmo, sou auto-m
 </p>
 
 <h3 align="center">
-<img src="Js.jpg" alt="stacks"/>
+<img src="xs.jpg" alt="stacks"/>
 </h3>
