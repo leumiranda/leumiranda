@@ -1,7 +1,7 @@
 <h3 align="center"> Fala galera! 👋</h3>
 
 <p align="center">
-Me chamo Leandro Miranda, um entusiasta da tecnologia, amo jogar mmo, sou auto-motivado e desenvolvedor back-end..
+Me chamo Leandro Miranda, Atualmente cursando engenharia de software na AMPLI, estou me dedicando a programação para me tornar um software developer.
 </p>
 
 <h4 align="center">
