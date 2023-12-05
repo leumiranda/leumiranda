@@ -59,6 +59,7 @@
 ## 🧡 About me:
 
 👋 Hello! My name is Leo Miranda and I am a Backend Developer. I started studying in December 2022, and since then, I feel more and more inspired and willing to pursue my career in the area. <br /> 
+📚 I study EAD software engineering at Ampli, second period. <br />
 🧠 My current goal is to get my first job and, in the future, be responsible for a team.<br /> 
 🧑‍💻 My main technologies are Javascript/Typescript, NodeJS/Bun, Prisma/Sequelize and GDScript/SwiftUI.<br />
 💻 I had the brilliant idea of ​​developing a game, with physics. -> https://mutneja.itch.io/the-last-valkyrie14 <- <br />
