@@ -44,12 +44,13 @@
 
 <br />
  <div>
-  <img height='60' src="https://i.imgur.com/20fQ0jq.png" />
   <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img height='60' src="https://i.imgur.com/20fQ0jq.png" />
+  <img height='60' src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" />
   <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
   <img height='60' src="https://www.mailerlite.com/assets/integration/blue-bg-kommo-wordmark.png" />
-  <img height='60' src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" />
+  <img height='60' src="https://www.svgrepo.com/show/353800/google-ads.svg" />
   </div>
 </div>
 
