@@ -61,8 +61,8 @@
 👋 Hello! My name is Leo Miranda and I am a Backend Developer. I started studying in December 2022, and since then, I feel more and more inspired and willing to pursue my career in the area. <br /> 
 🧠 My current goal is to get my first job and, in the future, be responsible for a team.<br /> 
 🧑‍💻 My main technologies are Javascript/Typescript, NodeJS/Bun, Prisma/Sequelize and GDScript/SwiftUI.<br />
-💻 I had the brilliant idea of ​​developing a game, with physics. -> https://mutneja.itch.io/the-last-valkyrie14<br />
-😬 I've been an electronics technician for over 5 years, specializing in Apple<br />
+💻 I had the brilliant idea of ​​developing a game, with physics. -> https://mutneja.itch.io/the-last-valkyrie14 <- <br />
+😬 I've been an electronics technician for over 5 years, specializing in Apple.<br />
 🧑🏻 I always try to be a polite and respectful person, and I love interacting with new people and sharing my story. Want to talk about technology, league of legends? Send a message!<br /> 
 
 <br />
