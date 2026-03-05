@@ -89,9 +89,9 @@ No desenvolvimento aplico conceitos modernos de engenharia de software:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leumiranda&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=leumiranda&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leumiranda&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leumiranda&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
